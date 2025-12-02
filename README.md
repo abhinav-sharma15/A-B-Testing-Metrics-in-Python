@@ -12,7 +12,7 @@ The notebook is designed for:
 
 ---
 
-## 🚀 Features
+## Features
 
 ### ✔ Frequentist A/B Testing Metrics  
 The notebook introduces and implements:
@@ -61,4 +61,36 @@ For each scenario, the notebook includes:
 ---
 
 ## 📂 Repository Contents
+
+
+---
+
+## 📘 Notebook Structure
+
+The notebook is organized as follows:
+
+1. **Introduction to A/B testing metrics**  
+2. Conversion rates & lift  
+3. Standard errors & z-tests  
+4. p-values, significance, and CIs  
+5. Power, MDE, and sample size  
+6. Bayesian Beta-Binomial modeling  
+7. Posterior comparisons & lift distributions  
+8. Practical decision making with real scenarios  
+9. Frequentist vs Bayesian: which is better?  
+10. Visualizations  
+11. Example dataset with full analysis  
+
+Each step includes Python code, formulas, and detailed commentary.
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/<your-repo>.git
+cd <your-repo>
+
 
